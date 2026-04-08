@@ -147,6 +147,7 @@ export default defineConfig({
           text: 'ChatGPT介绍',
           collapsed: false,
           items: [
+            { text: 'ChatGPT Plus值得买吗？2026年4月GPT-5.4 Plus vs 免费版深度对比（附省钱攻略）', link: '/chatgpt/chatgpt-plus-worth-it-gpt54-comparison-april-2026' },
             { text: 'OpenAI最新动态2026年4月：GPT-6即将发布、GPT Image 2惊艳亮相、Sora被砍', link: '/chatgpt/chatgpt-openai-zuixin-dongtai-gpt6-gpt-image2-2026' },
             { text: 'GPT-6什么时候发布？OpenAI GPT-6最新消息汇总与功能预测（2026年4月）', link: '/chatgpt/gpt-6-zuixin-xiaoxi-fabu-shijian-gongneng-yuce-2026' },
             { text: 'Grok是什么？一文看懂xAI Grok怎么用、和ChatGPT有什么区别（2026年4月实测）', link: '/chatgpt/grok-shi-shenme-zenme-yong-vs-chatgpt-shice-2026' },
