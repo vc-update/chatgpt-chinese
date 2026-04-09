@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // 1. 网站元数据
-  title: "ChatGPT中文版指南 | AI对话工具使用教程 | 国内AI平台推荐",
-  description: "ChatGPT中文版使用指南与AI工具推荐。提供GPT-5.4、Claude 4.6、Gemini 3.1 Pro等主流AI模型使用教程，国内邮箱注册即用。2026年AI对话平台推荐，支持AI对话、写作、编程、绘画、翻译。",
+  title: "ChatGPT官网中文版 | ChatGPT网页版入口 | 国内免翻墙使用ChatGPT",
+  description: "ChatGPT官网中文版免翻墙入口，支持ChatGPT网页版直接使用。提供GPT-5.4、Claude 4.6、Gemini 3.1 Pro等全球最新AI模型，国内邮箱注册即用。ChatGPT中文版2026年推荐平台，支持AI对话、写作、编程、绘画、翻译。",
   lang: 'zh-CN',
   
   // 2. 关键 SEO 配置 (你漏掉的部分)
@@ -28,15 +28,15 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', href: '/favicon.svg' }],
     ['meta', { name: 'msvalidate.01', content: '283F4ED132291BB65C882E27214A15B8' }],
     // SEO 关键词
-    ['meta', { name: 'keywords', content: 'ChatGPT中文版,ChatGPT教程,AI对话工具,ChatGPT使用指南,GPT-5.4,AI平台推荐,AI对话,人工智能,ChatGPT国内使用,AI写作,AI编程' }],
-    ['meta', { name: 'author', content: 'AI工具指南站' }],
+    ['meta', { name: 'keywords', content: 'ChatGPT,ChatGPT官网,ChatGPT网页版,ChatGPT中文版,chatgpt,chatgpt官网,chatgpt网页版,ChatGPT入口,ChatGPT免翻墙,ChatGPT中文,ChatGPT镜像站,ChatGPT国内版,GPT-5.4,OpenAI,AI对话,ChatGPT镜像网站,人工智能,ChatGPT国内' }],
+    ['meta', { name: 'author', content: 'ChatGPT中文版' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
-    ['meta', { property: 'og:title', content: 'ChatGPT中文版指南 | AI工具使用教程与平台推荐' }],
-    ['meta', { property: 'og:description', content: 'ChatGPT中文版使用指南，AI工具教程与平台推荐。GPT-5.4等最新模型使用教程，2026年AI平台推荐。' }],
-    ['meta', { property: 'og:site_name', content: 'ChatGPT中文版指南' }],
+    ['meta', { property: 'og:title', content: 'ChatGPT官网中文版 | ChatGPT网页版入口 | 国内免翻墙使用ChatGPT' }],
+    ['meta', { property: 'og:description', content: 'ChatGPT官网中文版免翻墙入口，支持ChatGPT网页版直接使用。GPT-5.4最新模型，国内邮箱注册即用。2026年最靠谱ChatGPT中文平台推荐。' }],
+    ['meta', { property: 'og:site_name', content: 'ChatGPT官网中文版' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'ChatGPT中文版指南 - AI对话工具使用教程' }],
-    ['meta', { name: 'twitter:description', content: 'ChatGPT中文版使用教程与AI平台推荐。GPT-5.4、Claude 4.6等主流AI模型使用指南。' }],
+    ['meta', { name: 'twitter:title', content: 'ChatGPT官网中文版 - ChatGPT网页版国内免翻墙入口' }],
+    ['meta', { name: 'twitter:description', content: 'ChatGPT官网中文版入口，免翻墙直接用ChatGPT网页版。支持GPT-5.4、Claude 4.6等最新AI模型。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://www.chatgpt-chinese.chat' }],
     ['meta', { property: 'og:image', content: 'https://www.chatgpt-chinese.chat/og-image.png' }],
@@ -47,9 +47,9 @@ export default defineConfig({
       `{
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "ChatGPT中文版指南",
+        "name": "ChatGPT官网中文版",
         "url": "https://www.chatgpt-chinese.chat",
-        "description": "第三方ChatGPT中文教程与AI工具推荐平台。提供GPT-5.4、Claude 4.6等AI模型使用教程，本站与OpenAI无官方关联。",
+        "description": "ChatGPT官网中文版免翻墙入口，支持ChatGPT网页版直接使用。提供GPT-5.4、Claude 4.6等最新AI模型，2026年国内用户首选ChatGPT平台",
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://www.chatgpt-chinese.chat/?q={search_term_string}",
@@ -66,34 +66,34 @@ export default defineConfig({
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "ChatGPT国内怎么使用？",
+            "name": "ChatGPT官网国内怎么用？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "国内用户可以通过第三方AI聚合平台使用ChatGPT中文版，如SnakeGPT（snakegpt.vip）和GPTCat（gptcat.cc），支持GPT-5.4、Claude 4.6等主流AI模型，注册即可使用。本站为第三方教程站，与OpenAI无官方关联。"
+              "text": "国内用户可以通过ChatGPT官网中文版免翻墙使用ChatGPT网页版，推荐SnakeGPT（snakegpt.vip）和GPTCat（gptcat.cc），支持GPT-5.4、Claude 4.6等全部最新模型，注册即可使用。"
             }
           },
           {
             "@type": "Question",
-            "name": "ChatGPT中文版和ChatGPT有什么区别？",
+            "name": "ChatGPT官网中文版和ChatGPT官网有什么区别？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "ChatGPT中文版是第三方平台通过API对接OpenAI官方接口提供的服务，模型能力与ChatGPT一致。优势是国内可直接访问、支持支付宝微信付款、中文界面优化，部分还集成了Claude、Gemini等多模型。本站为独立第三方教程站。"
+              "text": "ChatGPT官网中文版通过API对接OpenAI官方接口，模型能力与ChatGPT官网完全一致。优势是国内可直接访问ChatGPT网页版、支持支付宝微信付款、中文界面优化，部分还集成了Claude、Gemini等多模型。"
             }
           },
           {
             "@type": "Question",
-            "name": "ChatGPT可以免费用吗？",
+            "name": "ChatGPT网页版可以免费用吗？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "多数ChatGPT中文版平台提供免费额度，注册即送体验次数。GPT-3.5级别通常免费不限量，GPT-5.4等高级模型需要付费，价格通常比官方Plus订阅更便宜。"
+              "text": "多数ChatGPT官网中文版平台提供免费额度，注册即送体验次数。GPT-3.5级别ChatGPT网页版通常免费不限量，GPT-5.4等高级模型需要付费，价格通常比ChatGPT官网Plus订阅更便宜。"
             }
           },
           {
             "@type": "Question",
-            "name": "2026年好用的ChatGPT中文版平台有哪些？",
+            "name": "2026年最好用的ChatGPT网页版平台是哪个？",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "2026年推荐的ChatGPT中文版平台：SnakeGPT（稳定运营超1年，支持GPT-5.4/Claude 4.6）和GPTCat（全模型覆盖，5星稳定性评分）。两者均支持国内直连、多模型切换。"
+              "text": "2026年推荐的ChatGPT网页版平台：SnakeGPT（稳定运营超1年，支持GPT-5.4/Claude 4.6）和GPTCat（全模型覆盖，5星稳定性评分）。两者均支持国内直连ChatGPT官网中文版、多模型切换。"
             }
           }
         ]
@@ -119,7 +119,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/logo.svg',
-    siteTitle: 'ChatGPT中文版指南',
+    siteTitle: 'ChatGPT官网中文版',
     
     // 开启最后更新时间的显示文本
     lastUpdated: {
@@ -147,7 +147,6 @@ export default defineConfig({
           text: 'ChatGPT介绍',
           collapsed: false,
           items: [
-            { text: 'ChatGPT写代码靠谱吗？2026年4月GPT-5.4/Claude 4.6编程实测｜AI写代码完整教程', link: '/chatgpt/chatgpt-ai-coding-guide-gpt54-claude46-april-2026' },
             { text: 'ChatGPT Plus值得买吗？2026年4月GPT-5.4 Plus vs 免费版深度对比（附省钱攻略）', link: '/chatgpt/chatgpt-plus-worth-it-gpt54-comparison-april-2026' },
             { text: 'OpenAI最新动态2026年4月：GPT-6即将发布、GPT Image 2惊艳亮相、Sora被砍', link: '/chatgpt/chatgpt-openai-zuixin-dongtai-gpt6-gpt-image2-2026' },
             { text: 'GPT-6什么时候发布？OpenAI GPT-6最新消息汇总与功能预测（2026年4月）', link: '/chatgpt/gpt-6-zuixin-xiaoxi-fabu-shijian-gongneng-yuce-2026' },
@@ -382,8 +381,8 @@ export default defineConfig({
 
 
     footer: {
-      message: '本站为独立第三方信息站，与 OpenAI 无官方关联',
-      copyright: 'Copyright © 2025-2026 ChatGPT中文版指南'
+      message: 'Powered by ChatGPT中文版',
+      copyright: 'Copyright © 2025-2026 ChatGPT中文版'
     },
     
     search: {
