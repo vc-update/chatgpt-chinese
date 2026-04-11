@@ -148,6 +148,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Claude 4.6国内怎么用？2026年4月中文版使用教程（免翻墙｜附ChatGPT对比）', link: '/chatgpt/claude-4-6-guonei-zenme-yong-jiaocheng-april-2026' },
+            { text: 'ChatGPT 中文版国内使用全攻略：支持 GPT-5.4 Thinking 与 GPT-5.3 Instant【2026年4月最新】', link: '/chatgpt/ChatGPT_CN_Usage_Guide_2026' },
             { text: 'ChatGPT 中文版入口推荐与避坑指南：2026 国内稳定使用 GPT-5.1、Claude 4.5 和 DeepSeek', link: '/chatgpt/chatgpt-chinese-entry-recommendation-2026' },
             { text: 'ChatGPT Plus值得买吗？2026年4月GPT-5.4 Plus vs 免费版深度对比（附省钱攻略）', link: '/chatgpt/chatgpt-plus-worth-it-gpt54-comparison-april-2026' },
             { text: 'OpenAI最新动态2026年4月：GPT-6即将发布、GPT Image 2惊艳亮相、Sora被砍', link: '/chatgpt/chatgpt-openai-zuixin-dongtai-gpt6-gpt-image2-2026' },
