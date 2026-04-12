@@ -3,6 +3,7 @@ title: ChatGPT 中文版国内使用全攻略：支持 GPT-5.4 Thinking 与 GPT-
 description: 2026年4月最新 ChatGPT 中文版使用教程，全面解析 GPT-5.4 Thinking 与 GPT-5.3 Instant 的区别，国内用户如何更高效使用 ChatGPT，以及模型选择、使用技巧与常见问题。
 keywords: chatgpt, chatgpt中文版, chatgpt国内使用, gpt-5.4, gpt-5.3 instant, chatgpt中文教程, chatgpt使用指南
 outline: deep
+date: 2026-04-12
 ---
 
 # ChatGPT 中文版国内使用全攻略：支持 GPT-5.4 Thinking 与 GPT-5.3 Instant【2026年4月最新】

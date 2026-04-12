@@ -6,6 +6,7 @@ head:
     - name: keywords
       content: ChatGPT APP下载,ChatGPT安卓下载,ChatGPT iOS下载,ChatGPT电脑版,ChatGPT中文版下载,ChatGPT国内下载,SnakeGPT,GPTCat,ChatGPT桌面版
 outline: deep
+date: 2026-04-12
 ---
 
 # ChatGPT中文版APP下载安装指南2026：iOS/安卓/电脑端全平台教程

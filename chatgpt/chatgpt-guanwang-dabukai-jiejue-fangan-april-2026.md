@@ -6,6 +6,7 @@ head:
     - name: keywords
       content: ChatGPT官网,ChatGPT官网打不开,ChatGPT官网进不去,ChatGPT国内打开,ChatGPT官方入口,ChatGPT免翻墙,ChatGPT替代方案,SnakeGPT,GPTCat
 outline: deep
+date: 2026-04-12
 ---
 
 # ChatGPT官网进不去？2026年4月国内打开ChatGPT的全部方法（附免翻墙方案）

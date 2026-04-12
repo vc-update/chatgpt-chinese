@@ -17,6 +17,7 @@ head:
   - - meta
     - property: og:type
       content: article
+date: 2026-04-12
 ---
 
 # Claude 4.6国内怎么用？2026年4月最新中文版使用教程（免翻墙｜附ChatGPT对比）

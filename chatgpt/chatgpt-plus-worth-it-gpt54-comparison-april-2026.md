@@ -11,6 +11,7 @@ head:
   - - meta
     - property: og:description
       content: GPT-5.4 Plus专属功能全面解析，免费版对比，附国内替代方案
+date: 2026-04-12
 ---
 
 # ChatGPT Plus值得订阅吗？2026年4月GPT-5.4深度对比（附替代方案）

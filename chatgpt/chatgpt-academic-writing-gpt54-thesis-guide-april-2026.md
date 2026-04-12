@@ -6,6 +6,7 @@ head:
     - name: keywords
       content: ChatGPT写论文,ChatGPT学术写作,GPT-5.4论文,ChatGPT开题报告,ChatGPT文献综述,ChatGPT降重,AI写论文,ChatGPT中文版,SnakeGPT,GPTCat
 outline: deep
+date: 2026-04-12
 ---
 
 # ChatGPT写论文靠谱吗？2026年GPT-5.4学术写作实测：从开题报告到参考文献全流程

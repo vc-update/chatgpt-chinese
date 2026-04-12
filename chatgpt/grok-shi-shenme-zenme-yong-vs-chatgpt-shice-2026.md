@@ -3,6 +3,7 @@ title: Grok是什么？一文看懂xAI Grok怎么用、和ChatGPT有什么区别
 description: 2026年4月最新Grok使用指南，一文看懂什么是Grok、Grok怎么注册、Grok和ChatGPT的区别、Grok国内怎么用，附Grok免翻墙使用方案和真实体验评测。
 keywords: Grok是什么,Grok怎么用,Grok,xAI,Grok国内使用,Grok和ChatGPT区别,Grok中文版,Grok教程,Grok免翻墙,Grok注册
 outline: deep
+date: 2026-04-12
 ---
 
 # Grok是什么？一文看懂Grok怎么用、和ChatGPT有什么区别

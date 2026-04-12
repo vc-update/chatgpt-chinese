@@ -3,6 +3,7 @@ title: Grok 4.2中文版国内怎么用？2026年4月最新免翻墙使用教程
 description: 2026年4月Grok 4.2中文版国内使用完整教程。详解xAI Grok最新功能、国内免翻墙访问方法，以及通过中文版平台直接使用Grok 4.2的操作步骤。
 keywords: Grok中文版, Grok 4.2, Grok国内使用, xAI, Grok免翻墙, Grok教程, Grok镜像站, Grok对比ChatGPT
 outline: deep
+date: 2026-04-12
 ---
 
 # Grok 4.2中文版国内怎么用？2026年4月最新使用教程

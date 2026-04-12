@@ -6,6 +6,7 @@ head:
     - name: keywords
       content: ChatGPT怎么用,ChatGPT写论文,ChatGPT写代码,ChatGPT做PPT,GPT-5.4,ChatGPT中文版,ChatGPT国内使用,ChatGPT教程,ChatGPT镜像,免翻墙,GPTCat,SnakeGPT,ChatGPT 2026
 outline: deep
+date: 2026-04-12
 ---
 
 # ChatGPT实用场景TOP10：GPT-5.4写论文/写代码/做PPT实操教程，2026年4月国内直连方案
