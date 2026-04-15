@@ -147,6 +147,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'ChatGPT官网网址登录入口｜2026年4月国内怎么用ChatGPT', link: '/chatgpt/chatgpt-guanwang-wangzhi-denglu-rukou-guonei-zhinan-2026' },
+            { text: 'ChatGPT写文案全攻略：零基础也能高效生成优质文案', link: '/chatgpt/How_to_Write_Marketing_Copy_with_ChatGPT_Full_Guide_&_Comparison_with_Gemini_Grok' },
             { text: 'ChatGPT和Claude国内怎么用？2026最新免翻墙中文版指南（附镜像站与聚合平台推荐）', link: '/chatgpt/chatgpt-claude-guide-cn' },
             { text: 'ChatGPT 提示词技巧大全：2026 年最全 Prompt 使用指南（中文版）', link: '/chatgpt/chatgpt-prompt-guide-202604-cn' },
             { text: 'Claude 4.6国内怎么用？2026年4月中文版使用教程（免翻墙｜附ChatGPT对比）', link: '/chatgpt/claude-4-6-guonei-zenme-yong-jiaocheng-april-2026' },
