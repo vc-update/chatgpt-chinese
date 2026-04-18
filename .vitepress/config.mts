@@ -147,6 +147,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'ChatGPT官网网址登录入口｜2026年4月国内怎么用ChatGPT', link: '/chatgpt/chatgpt-guanwang-wangzhi-denglu-rukou-guonei-zhinan-2026' },
+            { text: 'GPT-5.3 和 GPT-5.4 有什么区别？一篇看懂两代模型的能力、定位与适用场景 附gpt官方直连入口（无需翻墙）', link: '/chatgpt/gpt53_vs_gpt54_comparison' },
             { text: '新手如何使用ChatGPT总结新闻发到微信公众号教程，含chatgpt最新官方入口（2026年4月最新）', link: '/chatgpt/chatgpt-news-summary-wechat-guide' },
             { text: '如何用 ChatGPT 写文案：新手也能快速上手的实战指南', link: '/chatgpt/how-to-use-chatgpt-for-copywriting-bing-seo' },
             { text: 'ChatGPT写文案全攻略：零基础也能高效生成优质文案', link: '/chatgpt/How_to_Write_Marketing_Copy_with_ChatGPT_Full_Guide_&_Comparison_with_Gemini_Grok' },
