@@ -147,6 +147,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'ChatGPT官网网址登录入口｜2026年4月国内怎么用ChatGPT', link: '/chatgpt/chatgpt-guanwang-wangzhi-denglu-rukou-guonei-zhinan-2026' },
+            { text: 'ChatGPT 中文版：国内免费指南（支持 GPT-5、GPT-4o、o3 和 Claude 4.5 Sonnet、Gemini 3 Pro）【2026年更新】', link: '/chatgpt_chinese_mirror_guide_2026' },
             { text: 'Anthropic Claude官网中文版：国内最全Claude opus使用指南【4月最新更新】', link: '/chatgpt/claude_opus_chinese_guide_april_update_with_mirrors_corrected' },
             { text: 'GPT-5.5 已经悄然上线，国内用户怎么快速体验 ChatGPT？', link: '/chatgpt/chatgpt_chinese_gpt55_zhihu_article' },
             { text: 'GPT Image-2 是什么？OpenAI Chatgpt最新 AI 生图模型介绍、使用方法与对比', link: '/chatgpt/gpt-image-2-seo-article' },
