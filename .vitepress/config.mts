@@ -146,6 +146,7 @@ export default defineConfig({
           text: 'ChatGPT介绍',
           collapsed: false,
           items: [
+            { text: 'ChatGPT官网完全指南：2026年05月最新访问教程（无需翻墙+国内镜像推荐）', link: '/chatgpt/chatgpt-guanwang-wanzheng-zhinan-2026-05-503' },
             { text: 'ChatGPT官网完全指南：2026年05月国内访问教程（支持GPT-5.4，无需翻墙）', link: '/chatgpt/chatgpt-guanwang-wanzheng-zhinan-2026-05' },
             { text: 'ChatGPT官网网址登录入口｜2026年4月国内怎么用ChatGPT', link: '/chatgpt/chatgpt-guanwang-wangzhi-denglu-rukou-guonei-zhinan-2026' },
             { text: 'ChatGPT 中文版：国内免费指南（支持 GPT-5、GPT-4o、o3 和 Claude 4.5 Sonnet、Gemini 3 Pro）【2026年更新】', link: '/chatgpt_chinese_mirror_guide_2026' },
