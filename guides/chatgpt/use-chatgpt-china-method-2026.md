@@ -1,13 +1,13 @@
 ---
 title: ChatGPT国内使用指南：2026年最新ChatGPT官网注册与中文版使用全教程
-description: 2026年3月最新！打破信息差，现在注册 ChatGPT 官网已无需手机号验证。本文提供保姆级 ChatGPT 国内使用指南，包含官网免手机号注册教程，以及国内免翻墙、支持 GPT-5.3 的 ChatGPT 中文版直连镜像推荐（SnakeGPT）。
+description: 2026年5月最新！打破信息差，现在注册 ChatGPT 官网已无需手机号验证。本文提供保姆级 ChatGPT 国内使用指南，包含官网免手机号注册教程，以及国内免翻墙、支持 GPT-5.3 的 ChatGPT 中文版直连镜像推荐（SnakeGPT）。
 keywords: ChatGPT国内使用指南, ChatGPT官网, ChatGPT中文版, ChatGPT注册, 免手机号注册, GPT-5.3, SnakeGPT, GPTCat, 国内怎么用ChatGPT
 outline: deep
 ---
 
 # ChatGPT国内使用指南：2026年最新ChatGPT官网注册与中文版使用全教程
 
-**2026年3月最新更新！！**
+**2026年5月最新更新！！**
 
 ![ChatGPT官网与中文版指南](/chatgpt.jpg)
 

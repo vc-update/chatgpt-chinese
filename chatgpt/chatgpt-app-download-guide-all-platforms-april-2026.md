@@ -6,12 +6,12 @@ head:
     - name: keywords
       content: ChatGPT APP下载,ChatGPT安卓下载,ChatGPT iOS下载,ChatGPT电脑版,ChatGPT中文版下载,ChatGPT国内下载,SnakeGPT,GPTCat,ChatGPT桌面版
 outline: deep
-date: 2026-04-12
+date: 2026-05-04
 ---
 
 # ChatGPT中文版APP下载安装指南2026：iOS/安卓/电脑端全平台教程
 
-> **更新时间：2026年4月** | 全平台实测可用
+> **更新时间：2026年5月** | 全平台实测可用
 
 "ChatGPT的APP在哪下载？"——这是国内用户问得最多的问题之一。因为地区限制，国内用户在应用商店搜不到官方APP，导致很多人下到了假冒APP甚至被骗。
 

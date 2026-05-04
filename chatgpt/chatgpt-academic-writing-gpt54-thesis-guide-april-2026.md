@@ -6,12 +6,12 @@ head:
     - name: keywords
       content: ChatGPT写论文,ChatGPT学术写作,GPT-5.4论文,ChatGPT开题报告,ChatGPT文献综述,ChatGPT降重,AI写论文,ChatGPT中文版,SnakeGPT,GPTCat
 outline: deep
-date: 2026-04-12
+date: 2026-05-04
 ---
 
 # ChatGPT写论文靠谱吗？2026年GPT-5.4学术写作实测：从开题报告到参考文献全流程
 
-> **更新时间：2026年4月** | 使用GPT-5.4 Thinking模式实测
+> **更新时间：2026年5月** | 使用GPT-5.4 Thinking模式实测
 
 每到毕业季，"ChatGPT能不能帮忙写论文"就是搜索热门。答案是：**能，但方式很重要**。用对了是学术利器，用错了是退稿神器。
 

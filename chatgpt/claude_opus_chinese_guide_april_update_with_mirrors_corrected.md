@@ -1,12 +1,12 @@
 # Anthropic Claude官网中文版：国内最全Claude opus使用指南【4月最新更新】
 
-> 更新时间：2026年4月28日  
+> 更新时间：2026年5月4日  
 > 适用对象：想了解 Claude 官网入口、Claude Opus 最新版本、国内可用性、订阅/API 价格、提示词写法、Claude Code 与企业使用场景的中文读者。  
 > 重要说明：本文所说“Claude 官网中文版”是面向中文读者整理的使用指南，并不代表 Anthropic 已经推出独立的官方中文站或中国大陆专属官网。文中提到的 `www.snakegpt.vip` 和 `www.gptcat.cc` 是面向国内用户体验 Claude 类能力的镜像站入口；关于 Anthropic 官方账号、地区、价格和模型能力，请以 Anthropic / Claude 官方页面为准。
 
 ---
 
-## 一、先说结论：2026年4月 Claude Opus 最新变化
+## 一、先说结论：2026年5月 Claude Opus 最新变化
 
 截至 2026 年 4 月，Claude Opus 系列的最新公开可用版本是 **Claude Opus 4.7**。Anthropic 于 2026 年 4 月 16 日发布 Opus 4.7，并称其已经在 Claude 产品、Claude API、Amazon Bedrock、Google Cloud Vertex AI 与 Microsoft Foundry 上可用。官方 API 模型名为 `claude-opus-4-7`。[^opus47]
 

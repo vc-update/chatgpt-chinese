@@ -334,7 +334,7 @@ SnakeGPT是运营超过4年的老牌国内ChatGPT服务平台，以稳定性著�
 - [国内如何使用 ChatGPT：2026年新手保姆级教程](/chatgpt/how-to-use-chatgpt)
 - [ChatGPT 国内怎么使用？（官网 + 镜像完整方案）](/chatgpt/how-to-use-gpt)
 - [ChatGPT 官网中文版国内使用超全指南（支持 GPT-4o / GPT-5.2）](/chatgpt/gpt5-chatgpt-guide)
-- [DeepSeek vs ChatGPT哪个好？2026年4月国内AI大模型深度对比](/chatgpt/deepseek-vs-chatgpt-duibi-2026-april)
+- [DeepSeek vs ChatGPT哪个好？2026年5月国内AI大模型深度对比](/chatgpt/deepseek-vs-chatgpt-duibi-2026-april)
 - [什么是 ChatGPT？](/chatgpt/what-is-chatgpt)
 
 ### 关联站推荐

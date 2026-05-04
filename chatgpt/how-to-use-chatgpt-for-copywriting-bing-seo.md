@@ -9,7 +9,7 @@ keywords:
   - "用ChatGPT生成营销文案"
   - "ChatGPT写销售文案"
 slug: "how-to-use-chatgpt-for-copywriting"
-date: "2026-04-15"
+date: "2026-05-04"
 ---
 
 # 如何用 ChatGPT 写文案：新手也能快速上手的实战指南

@@ -1,17 +1,17 @@
 ---
-title: ChatGPT实用场景TOP10：GPT-5.4写论文/写代码/做PPT实操教程，2026年4月国内直连方案
-description: 2026年4月最新整理ChatGPT十大高频使用场景实操教程，涵盖GPT-5.4写论文、写代码、做PPT、数据分析、翻译、绘图等，附国内免翻墙直连平台推荐与详细Prompt模板。
+title: ChatGPT实用场景TOP10：GPT-5.4写论文/写代码/做PPT实操教程，2026年5月国内直连方案
+description: 2026年5月最新整理ChatGPT十大高频使用场景实操教程，涵盖GPT-5.4写论文、写代码、做PPT、数据分析、翻译、绘图等，附国内免翻墙直连平台推荐与详细Prompt模板。
 head:
   - - meta
     - name: keywords
       content: ChatGPT怎么用,ChatGPT写论文,ChatGPT写代码,ChatGPT做PPT,GPT-5.4,ChatGPT中文版,ChatGPT国内使用,ChatGPT教程,ChatGPT镜像,免翻墙,GPTCat,SnakeGPT,ChatGPT 2026
 outline: deep
-date: 2026-04-12
+date: 2026-05-04
 ---
 
-# ChatGPT实用场景TOP10：GPT-5.4写论文/写代码/做PPT实操教程，2026年4月国内直连方案
+# ChatGPT实用场景TOP10：GPT-5.4写论文/写代码/做PPT实操教程，2026年5月国内直连方案
 
-> **最后更新：2026年4月1日** | 全文约4200字 | 阅读时间：13分钟
+> **最后更新：2026年5月4日** | 全文约4200字 | 阅读时间：13分钟
 
 "ChatGPT到底能干什么？"——这可能是2026年被问得最多的AI问题了。
 
@@ -189,7 +189,7 @@ GPT-5.4会生成完整的PPT结构和每页内容，你只需要复制到PPT模�
 - users (id, name, register_date, city)
 - orders (id, user_id, amount, created_at, status)
 
-请写一个SQL查询：统计2026年3月各城市的活跃用户数和总订单金额，
+请写一个SQL查询：统计2026年5月各城市的活跃用户数和总订单金额，
 按总金额降序排列，只显示前20个城市。
 ```
 

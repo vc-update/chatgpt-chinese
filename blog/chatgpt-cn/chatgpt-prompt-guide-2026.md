@@ -7,7 +7,7 @@ outline: deep
 
 # ChatGPT 提示词技巧大全：2026 年最全 Prompt 使用指南（中文版）
 
-> 🕒 **更新时间：** 2026-03-19 | 适用版本：GPT-5.4 / Claude 4.6 / Gemini 3 Pro
+> 🕒 **更新时间：** 2026-05-04 | 适用版本：GPT-5.4 / Claude 4.6 / Gemini 3 Pro
 
 很多人第一次用 ChatGPT，都会遇到同一个问题：
 

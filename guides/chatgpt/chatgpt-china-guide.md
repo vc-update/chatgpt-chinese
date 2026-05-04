@@ -8,7 +8,7 @@ outline: deep
 
 <div class="info-box">
   <span class="icon">🕒</span> 
-  <strong>最后更新时间：</strong> 2026-01-18 | <strong>状态：</strong> 有效且稳定
+  <strong>最后更新时间：</strong> 2026-05-04 | <strong>状态：</strong> 有效且稳定
 </div>
 
 **ChatGPT** 作为全球最强的人工智能助手，已经彻底改变了我们的工作和学习方式。然而，对于国内用户来说，想要使用原版 OpenAI 服务往往面临着**“访问难、支付难、封号频”**的三大难题。

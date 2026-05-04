@@ -1,6 +1,6 @@
 ---
 title: ChatGPT 常见问题解决方案：2025年最全故障排查指南
-date: 2026-04-12
+date: 2026-05-04
 author: ChatGPT-China-Guide
 tags:
   - ChatGPT
@@ -11,7 +11,7 @@ description: 本文汇总 ChatGPT 使用过程中的所有常见问题，提供�
 
 # ChatGPT 常见问题解决方案：2026年最全故障排查指南
 
-> **最后更新**：2026-01-19  
+> **最后更新**：2026-05-04  
 > **作者**：ChatGPT-China-Guide
 
 **导读**：本文汇总 ChatGPT 使用过程中的所有常见问题，提供详细的排查步骤和解决方案，帮助你快速解决遇到的各种问题。本指南提供全面的 ChatGPT 中文版使用方法，涵盖国内可用的 ChatGPT 镜像网站推荐和详细使用教程。

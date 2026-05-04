@@ -1,14 +1,14 @@
 ---
-title: 2026年3月重磅更新！ChatGPT中文版首发支持 GPT-5.3、Gemini 3.1 Pro 与 Claude 4.6
-description: 2026年3月 AI 圈大地震！全球“四大天王”模型全面换代。国内如何第一时间体验？SnakeGPT 与 GPTCat 聚合平台已全量同步升级至 GPT-5.3 (极致推理)、Gemini 3.1 Pro (超长多模态)、Claude 4.6 (神级文笔) 与 Grok 4.2。一份订阅，解锁全球最强算力。
+title: 2026年5月重磅更新！ChatGPT中文版首发支持 GPT-5.3、Gemini 3.1 Pro 与 Claude 4.6
+description: 2026年5月 AI 圈大地震！全球“四大天王”模型全面换代。国内如何第一时间体验？SnakeGPT 与 GPTCat 聚合平台已全量同步升级至 GPT-5.3 (极致推理)、Gemini 3.1 Pro (超长多模态)、Claude 4.6 (神级文笔) 与 Grok 4.2。一份订阅，解锁全球最强算力。
 keywords: ChatGPT中文版, GPT-5.3, Gemini 3.1 Pro, Claude 4.6, Grok 4.2, SnakeGPT, GPTCat, 国内使用ChatGPT
 outline: deep
-date: 2026-04-12
+date: 2026-05-04
 ---
 
-# 2026年3月重磅更新！ChatGPT中文版首发支持 GPT-5.3、Gemini 3.1 Pro 与 Claude 4.6
+# 2026年5月重磅更新！ChatGPT中文版首发支持 GPT-5.3、Gemini 3.1 Pro 与 Claude 4.6
 
-**更新时间**：2026年3月 | **最新版本状态**：✅ 全网首发接入
+**更新时间**：2026年5月 | **最新版本状态**：✅ 全网首发接入
 
 2026 年 3 月，全球 AI 巨头们仿佛约好了一般，同时按下了“升级键”。
 一夜之间，**GPT-5.3、Gemini 3.1 Pro、Claude 4.6、Grok 4.2** 闪亮登场，彻底刷新了人类对人工智能的认知上限。
@@ -17,7 +17,7 @@ date: 2026-04-12
 
 但今天带来一个重磅好消息：国内最顶级的企业级聚合平台 **[SnakeGPT](https://snakegpt.vip)** 与视觉创作工坊 **[GPTCat](https://gptcat.cc)**，已经**全量同步了这四大最新旗舰模型**！
 
-::: tip 🚀 2026年3月“全明星”算力直连入口
+::: tip 🚀 2026年5月“全明星”算力直连入口
 无需折腾魔法与海外信用卡，国内直连全球最新顶配大脑：
 - **🧠 逻辑文字中枢 (SnakeGPT)**：[snakegpt.vip](https://snakegpt.vip)
     - **升级亮点**：**已无缝接入 GPT-5.3 与 Gemini 3.1 Pro，支持更极速的 System 2 深度思考与多模态文件解析**。

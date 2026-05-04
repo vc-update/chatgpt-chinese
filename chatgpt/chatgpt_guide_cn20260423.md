@@ -1,6 +1,6 @@
-# OpenAI ChatGPT 国内中文版使用指南，包含 GPT-5、GPT-5 系列【2026年4月最新更新】
+# OpenAI ChatGPT 国内中文版使用指南，包含 GPT-5、GPT-5 系列【2026年5月最新更新】
 
-**最新更新：2026年04月23日**
+**最新更新：2026年05月04日**
 
 本文为您提供一份全面详尽的 OpenAI ChatGPT 使用指南。我们将系统介绍 OpenAI 官网与 ChatGPT 的区别、国内用户如何访问 ChatGPT、如何选择适合自己的 ChatGPT 中文版入口，以及如何更高效地体验 GPT-5 系列模型。根据 OpenAI 官方公开信息，GPT-5 已上线，且 OpenAI 官网当前已展示 GPT-5 与后续 GPT-5 系列相关入口信息。
 

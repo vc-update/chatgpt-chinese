@@ -6,12 +6,12 @@ head:
     - name: keywords
       content: ChatGPT,ChatGPT是什么,ChatGPT怎么用,ChatGPT教程,ChatGPT入门,GPT-5.4,ChatGPT使用指南,ChatGPT中文,SnakeGPT,GPTCat
 outline: deep
-date: 2026-04-12
+date: 2026-05-04
 ---
 
 # ChatGPT是什么？2026年新手完整入门指南｜一文搞懂ChatGPT怎么用
 
-> **更新时间：2026年4月** | 小白友好版
+> **更新时间：2026年5月** | 小白友好版
 
 你可能在朋友圈、新闻、短视频里无数次看到"ChatGPT"这个词，但始终没搞懂——**它到底是什么？跟我有什么关系？我该怎么用？**
 

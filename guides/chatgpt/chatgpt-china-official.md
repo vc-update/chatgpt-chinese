@@ -79,4 +79,4 @@ outline: deep
 - **SnakeGPT (官方 API 直连)**：[https://snakegpt.vip](https://snakegpt.vip)
 
 ---
-**更新时间**：2026-01-22
+**更新时间**：2026-05-04

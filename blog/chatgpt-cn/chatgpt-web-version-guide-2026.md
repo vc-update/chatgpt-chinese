@@ -162,4 +162,4 @@ GPTCat 和 SnakeGPT 均声明对用户对话数据加密处理，不用于 AI �
 > - [ChatGPT 国内使用指南（2026 最新）](/blog/chatgpt-cn/how-to-use-chatgpt-in-china-stable-guide-2026)
 > - [ChatGPT 中文版免费版怎么用（2026 最新）](/blog/chatgpt-cn/chatgpt-free-guide-2026)
 
-**最后更新时间**：2026-04-6
+**最后更新时间**：2026-05-04

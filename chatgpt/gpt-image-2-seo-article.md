@@ -1,7 +1,7 @@
 ---
 title: "GPT Image-2 是什么？OpenAI Chatgpt最新 AI 生图模型介绍、使用方法与对比"
 slug: "gpt-image-2-guide"
-date: "2026-04-24"
+date: "2026-05-04"
 description: "本文全面介绍 GPT Image-2（ChatGPT Images 2.0）的核心能力、使用方法、提示词技巧，以及与 Midjourney、Adobe Firefly、Ideogram、Stability AI 等主流 AI 生图工具的优势对比。"
 keywords:
   - "gpt image-2"

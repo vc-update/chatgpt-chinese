@@ -7,7 +7,7 @@ outline: deep
 
 # Gemini - 谷歌AI 模型 Gemini 3 Pro 国内使用指南【2026年最新】
 
-**更新时间**：2026年2月12日 | **当前版本**：**Gemini 3 Pro (Multimodal)**
+**更新时间**：2026年5月4日 | **当前版本**：**Gemini 3 Pro (Multimodal)**
 
 在 **2026 年** 的 AI 战场上，如果说 OpenAI 的 GPT-5.2 是“逻辑之王”，那么 **Google Gemini** 就是无可争议的**“全能感官”**。
 
@@ -104,4 +104,4 @@ A：支持。SnakeGPT 适配了手机浏览器，你可以直接在微信里打�
 **立即体验 Gemini 3 Pro 视频分析：** [SnakeGPT 官方入口](https://snakegpt.vip)
 
 ---
-**最后更新**：2026年2月12日
+**最后更新**：2026年5月4日
